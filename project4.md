@@ -1,7 +1,7 @@
 
 #MEAN STACK DEPLOYMENT TO UBUNTU IN AWS
 
-I opened AWS account and created a virtual server with Ubuntu Server 20.04 LTS (HVM) image.
+I opened AWS account and created an EC2 Ubuntu server 20.04.
 
 ![s1 f](https://user-images.githubusercontent.com/94229949/170739547-d5a855ea-b5d0-4688-babd-e25378eb1980.png)
 
